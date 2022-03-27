@@ -4,9 +4,9 @@ let client = AgoraRTC.createClient({ mode: 'rtc', codec: "vp8" })
 //#2 Agora Id's
 let config = {
     appid: 'cbb6b75970ca4de68b0e9bea5272b24e',
-    token: '006cbb6b75970ca4de68b0e9bea5272b24eIACRW0eDN/VLYFz2clzDpp5XCdG76c1W4MYXeWDMw/bOxMIGOJsAAAAAEACvrbVsDAg8YgEAAQAKCDxi',
+    token: '006cbb6b75970ca4de68b0e9bea5272b24eIAAYqDXrQNxnffuphCyza8P0hnuB75b07Rw3rnTjxTpEdOAS44oAAAAAEAAJmhJvC1lBYgEAAQAKWUFi',
     uid: null,
-    channel: 'NewC',
+    channel: 'MyChannel',
 }
 
 //#3 - Setting tracks for when user joins
